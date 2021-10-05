@@ -1,0 +1,174 @@
+The total payroll for the business is $2207149.6
+
+Compensation Table
+Executives
+Name            Title           ID         Age   Salary     Total Comp
+Guitierez       ExecutiveStrat  3001       37    167854.00  233623.30 
+Silva           ExecSW          3119       42    174765.00  240534.30 
+
+Managers
+Name            Title           ID         Age   Salary
+Choi            ManagerEng      2309       34    104765.00 
+Taki            ManagerSW       2379       38    134765.00 
+Yem             ManagerEE       2001       32    112235.00 
+Rosendo         ManagerHR       2009       36    81213.00  
+Puig            ManagerEE       2311       42    144111.00 
+
+Employess
+Name            Title           ID         Age   Salary
+Aguilar         Engineer        123        21    62345.00  
+Andres          Mechanic        1234       44    49876.00  
+Nishi           Engineer        1987       33    76432.00  
+Agee            Programmer      1308       25    69874.00  
+Hernandez       Engineer2       129        26    82545.00  
+Jones           ElectricE       239        29    77865.00  
+Morales         Architect       109        37    111076.00 
+Nombrado        Programmer      1119       27    72876.00  
+Pena            ElectricE       1239       24    72865.00  
+Sosa            CompTech        1959       31    57654.00  
+Soto            Programmer      1629       33    79876.00  
+
+
+Reporting Structure
+
+Direct Reports To Executive
+Executive Guitierez has the following direct reports
+Choi		2309
+Yem		2001
+Puig		2311
+
+Executive Silva has the following direct reports
+Taki		2379
+Rosendo		2009
+
+
+
+Direct Reports To Managers
+Manager Choi has the following direct reports
+Aguilar		123
+Jones		239
+Soto		1629
+
+Manager Taki has the following direct reports
+Andres		1234
+Morales		109
+
+Manager Yem has the following direct reports
+Nishi		1987
+Nombrado		1119
+
+Manager Rosendo has the following direct reports
+Agee		1308
+Pena		1239
+
+Manager Puig has the following direct reports
+Hernandez		129
+Sosa		1959
+
+The manager name and tile are Choi ManagerEng
+The manager ID is 2309  The manager age is 34
+The manager salary is 104765.0
+
+The manager name and tile are Taki ManagerSW
+The manager ID is 2379  The manager age is 38
+The manager salary is 134765.0
+
+The manager name and tile are Yem ManagerEE
+The manager ID is 2001  The manager age is 32
+The manager salary is 112235.0
+
+The manager name and tile are Rosendo ManagerHR
+The manager ID is 2009  The manager age is 36
+The manager salary is 81213.0
+
+The manager name and tile are Puig ManagerEE
+The manager ID is 2311  The manager age is 42
+The manager salary is 144111.0
+
+The total payroll for the business is $2207149.6
+
+Compensation Table
+Executives
+Name            Title           ID         Age   Salary     Total Comp
+Guitierez       ExecutiveStrat  3001       37    167854.00  233623.30 
+Silva           ExecSW          3119       42    174765.00  240534.30 
+
+Managers
+Name            Title           ID         Age   Salary
+Choi            ManagerEng      2309       34    104765.00 
+Taki            ManagerSW       2379       38    134765.00 
+Yem             ManagerEE       2001       32    112235.00 
+Rosendo         ManagerHR       2009       36    81213.00  
+Puig            ManagerEE       2311       42    144111.00 
+
+Employess
+Name            Title           ID         Age   Salary
+Aguilar         Engineer        123        21    62345.00  
+Andres          Mechanic        1234       44    49876.00  
+Nishi           Engineer        1987       33    76432.00  
+Agee            Programmer      1308       25    69874.00  
+Hernandez       Engineer2       129        26    82545.00  
+Jones           ElectricE       239        29    77865.00  
+Morales         Architect       109        37    111076.00 
+Nombrado        Programmer      1119       27    72876.00  
+Pena            ElectricE       1239       24    72865.00  
+Sosa            CompTech        1959       31    57654.00  
+Soto            Programmer      1629       33    79876.00  
+
+
+Reporting Structure
+
+Direct Reports To Executive
+Executive Guitierez has the following direct reports
+Choi		2309
+Yem		2001
+Puig		2311
+
+Executive Silva has the following direct reports
+Taki		2379
+Rosendo		2009
+
+
+
+Direct Reports To Managers
+Manager Choi has the following direct reports
+Aguilar		123
+Jones		239
+Soto		1629
+
+Manager Taki has the following direct reports
+Andres		1234
+Morales		109
+
+Manager Yem has the following direct reports
+Nishi		1987
+Nombrado		1119
+
+Manager Rosendo has the following direct reports
+Agee		1308
+Pena		1239
+
+Manager Puig has the following direct reports
+Hernandez		129
+Sosa		1959
+
+The manager name and tile are Choi ManagerEng
+The manager ID is 2309  The manager age is 34
+The manager salary is 104765.0
+
+The manager name and tile are Taki ManagerSW
+The manager ID is 2379  The manager age is 38
+The manager salary is 134765.0
+
+The manager name and tile are Yem ManagerEE
+The manager ID is 2001  The manager age is 32
+The manager salary is 112235.0
+
+The manager name and tile are Rosendo ManagerHR
+The manager ID is 2009  The manager age is 36
+The manager salary is 81213.0
+
+The manager name and tile are Puig ManagerEE
+The manager ID is 2311  The manager age is 42
+The manager salary is 144111.0
+

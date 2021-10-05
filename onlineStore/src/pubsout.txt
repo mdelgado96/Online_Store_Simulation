@@ -1,0 +1,37 @@
+The magazine Java Journal has total sales of $3150.00
+The magazine "Java Journal" published by Wiley Press on a monthly basis has 100 pages and costs $5.25
+
+The magazine Political Update has total sales of $77.61
+The magazine "Political Update" published by Jabber Pubs on a weekly basis has 32 pages and costs $1.99
+
+The magazine People Profile has total sales of $10875.00
+The magazine "People Profile" published by Nosey Publications on a biweekly basis has 4000 pages and costs $7.25
+
+The book Harry Potter Lives has total sales of $197026.20
+The book "Harry Potter Lives" written by J.K. Rowling and published by Fantasy Pubs has 594 pages and costs $19.95
+
+The book Java For The World has total sales of $5074.78
+The book "Java For The World" written by Gaddis etal. and published by Tech Pubs has 975 pages and costs $121.99
+
+The book History Of The Universe has total sales of $21322.31
+The book "History Of The Universe" written by Stephen Hawking and published by Infinite Pubs has 632 pages and costs $23.99
+
+The child book Hoppy The Rabbit has total sales of $298020.17
+The children's book "Hoppy The Rabbit" written by Peter Cottontail and published by Kids Stuff has 19 pages and costs $5.99
+The minimum age for the book is 2
+The maximum age for the book is 6
+
+The child book Scary Hallooween has total sales of $439592.69
+The children's book "Scary Hallooween" written by Spooky Adams and published by Gory Publications has 134 pages and costs $12.45
+The minimum age for the book is 9
+The maximum age for the book is 13
+
+The child book Math Puzzles has total sales of $76.99
+The children's book "Math Puzzles" written by Calc Lator and published by Future Genius Pubs has 127 pages and costs $9.87
+The minimum age for the book is 6
+The maximum age for the book is 14
+
+The total sales for magazines is 14102.61
+The total sales for books is 223423.30
+The total sales for childrens books is 737689.85
+The total for all sales is 975215.76

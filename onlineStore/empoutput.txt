@@ -1,0 +1,17 @@
+The total payroll for the business is 
+The manager name and tile are Choi ManagerEng
+The manager ID is 2309  The manager age is 34
+The manager salary is 104765.0
+/nThe manager name and tile are Taki ManagerSW
+The manager ID is 2379  The manager age is 38
+The manager salary is 134765.0
+/nThe manager name and tile are Yem ManagerEE
+The manager ID is 2001  The manager age is 32
+The manager salary is 112235.0
+/nThe manager name and tile are Rosendo ManagerHR
+The manager ID is 2009  The manager age is 36
+The manager salary is 81213.0
+/nThe manager name and tile are Puig ManagerEE
+The manager ID is 2311  The manager age is 42
+The manager salary is 144111.0
+/n
